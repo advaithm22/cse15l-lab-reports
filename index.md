@@ -1,7 +1,8 @@
 *This* is where I will be posting my lab reports for the **Fall 2022** CSE 15L class. [Link](https://github.com)
 # Hi, my name is Advaith
 ## I am a student at UCSD.
-![Image] (https://www.google.com/url?sa=i&url=https%3A%2F%2Femojiterra.com%2Fsmiling-face-with-sunglasses%2F&psig=AOvVaw1bNci4stCUjLNbnU4WX4Zj&ust=1663973724029000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPC01qi_qfoCFQAAAAAdAAAAABAD)
+![Image] (![png-clipart-emoji-smiley-emoticon-computer-icons-sunglasses-emoji-heart-wikimedia-commons](https://user-images.githubusercontent.com/80607809/191866556-5d0fa9fc-34f4-48e4-a17d-4c7d35cc3349.png)
+)
 
 > random quote 
 
