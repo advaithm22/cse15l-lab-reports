@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Advaith Modali
 Professor Politz
 CSE 15L
@@ -6,3 +7,4 @@ CSE 15L
 Lab Report 1 Week 0
 
 ![Image](sample.png)
+=======
