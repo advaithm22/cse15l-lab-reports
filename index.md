@@ -14,7 +14,7 @@
 2. Modali
 3. 2026
 
-Assignment Progress:
+Course Progress:
 
 ---
 
